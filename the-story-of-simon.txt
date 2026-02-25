@@ -4,8 +4,4 @@ He started looking in the attic
 The he heard a strange sound
 It reminded him of a song he had heard in his youth
 It came from a cracking old radio
-<<<<<<< HEAD
-It was Led Zepplin
-=======
 The song was the sound of the underground by the spice girls
->>>>>>> 851d37a5201ac3a792c970f3660694e22a61c37f
